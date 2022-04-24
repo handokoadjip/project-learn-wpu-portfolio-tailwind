@@ -24,7 +24,7 @@ Clone the repository
 
 ## Usage example
 
-![Home](https://bebaskripsi.000webhostapp.com/project-learn-wpu-portfolio-tailwind/home.png)
+![Home](https://bebaskripsi.000webhostapp.com/project-learn-wpu-portfolio-tailwind/home-1.png)
 
 ## Development setup
 
