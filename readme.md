@@ -26,6 +26,8 @@ Clone the repository
 
 ![Home](https://bebaskripsi.000webhostapp.com/project-learn-wpu-portfolio-tailwind/home-1.png)
 
+![Home](https://bebaskripsi.000webhostapp.com/project-learn-wpu-portfolio-tailwind/home-2.png)
+
 ## Development setup
 
 Install all the dependencies using npm or yarn
