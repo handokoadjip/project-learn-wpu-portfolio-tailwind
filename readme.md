@@ -20,7 +20,7 @@ For those who want to contribute, just fork or download as usual!
 
 Clone the repository
 
-    git clone git@github.com:handokoadjipangestu/project-learn-wpu-tailwind.git
+    git clone git@github.com:handokoadjipangestu/project-learn-wpu-portfolio-tailwind.git
 
 ## Usage example
 
